@@ -1,5 +1,5 @@
 <?php
-
+echo 123;die;
 require('../vendor/autoload.php');
 
 $app = new Silex\Application();
